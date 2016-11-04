@@ -2,7 +2,7 @@ Export Options
 ================
   
 .. image:: /screenshots/export_map.png
-  :width: 320px
+  :width: 200px
   
 Send Map As Email
 -----------------
@@ -29,12 +29,9 @@ Export KML/KMZ File
 ---------------
 Exports the map as a KML/KMZ file. This format is used by most GIS applications including Google Earth. 
 
-.. note:: FireMapper tries to format kml maps with similar line styles, however some line styles can not be 
-reproduced in KML. The KML/KMZ format only supports solid lines. Dotted, dashed or other line styles are not supported. 
-This is a limitation of the KML/KMZ format, not FireMapper.
+.. note:: FireMapper tries to format kml maps with similar line styles, however some line styles can not be reproduced in KML. The KML/KMZ format only supports solid lines. Dotted, dashed or other line styles are not supported. This is a limitation of the KML/KMZ format, not FireMapper.
 
 .. image:: symbols/kmlFile.png
-
 
 Export GPX File
 ------------------
