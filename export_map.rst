@@ -20,17 +20,18 @@ Upload map directly to your organisation. This feature requires an organisationa
 Export FireMap File
 -------------------
 Exports a FireMap File (xml) containing all the information stored on the map (except photos). 
-This format is useful for transferring maps to other devices running FireMapper.
+This format is useful for transferring maps to other devices running FireMapper. (This file format may be discontinued)
 
 .. image:: symbols/fireMapFile.png
   :width: 60px
 
-Export KML File
+Export KML/KMZ File
 ---------------
-Exports the map as a KML file. This format is used by most GIS applications including Google Earth. 
+Exports the map as a KML/KMZ file. This format is used by most GIS applications including Google Earth. 
 
 .. note:: FireMapper tries to format kml maps with similar line styles, however some line styles can not be 
-reproduced in KML. The KML format only supports solid lines. Dotted, dashed or other line styles are not supported.
+reproduced in KML. The KML/KMZ format only supports solid lines. Dotted, dashed or other line styles are not supported. 
+This is a limitation of the KML/KMZ format, not FireMapper.
 
 .. image:: symbols/kmlFile.png
 

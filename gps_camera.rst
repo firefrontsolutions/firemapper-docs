@@ -48,6 +48,20 @@ Sending Photo via Text
 
 Exporting All Photos
 --------------------
+You can export all the photos from a selected mapset from the Export Options screen.
+
+1. Click the 'Map Options' button at the top right of the map screen 
+2. Click 'Export Map'
+3. Select 'Export GPS Photos' from the 'Export Options' screen.
+4. Select the export method. 
+
+Using this method you can:
+* Send photos via Email (total of size of photo attachments may be limited by your provider)
+* Save photos to Dropbox (requires Dropbox App)
+* Save photos to Google Drive (requires Google Drive App)
+* Save to Photo Gallery ('Save Image' option).
+* Send a MMS Message
+* and more
 
 .. image:: /screenshots/export_all_photos.png
-  :width: 320px
+  :width: 120px
