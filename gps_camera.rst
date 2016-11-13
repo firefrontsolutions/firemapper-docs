@@ -34,9 +34,6 @@ Sending Photo via Email
 .. image:: /screenshots/send_feature_as_email.png
   :width: 320px
     
-    
-.. image:: /screenshots/send_photo_email.png
-  :width: 320px
 
 Sending Photo via Text
 ----------------------
