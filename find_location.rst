@@ -18,6 +18,9 @@ Address
 
 .. image:: symbols/nameRef.png
   :width: 60px
+  
+.. image:: screenshots/search2.png
+  :width: 100px
 
 Four Figure Grid Reference
 --------------------------
@@ -40,7 +43,9 @@ Six Figure Grid Reference
 -------------------------
 
 Returns a list of the nearby matching six figure grid reference locations based on the users current location.
-A six figure grid reference has a medium accuracy of 100m by 100m.
+A six figure grid reference has a medium accuracy of 100m by 100m. Six figure reference are ideal for describing nearby locations. 
+
+These references repeat on the earth surface every 100km and can not be used to describe a unique location on a world scale.
 
 * 342492
 * 342 492
@@ -52,6 +57,10 @@ A six figure grid reference has a medium accuracy of 100m by 100m.
   
 .. note::
  The grid reference search requires your current location in order to display matching grid references near your location.
+  
+.. image:: screenshots/search1.png
+  :width: 100px
+  
   
 Fourteen Figure Grid Reference
 ------------------------------
@@ -137,11 +146,3 @@ A UTM reference has a high accuracy of 1m x 1m.
   :width: 60px
   
   
-.. image:: screenshots/search1.png
-  :width: 100px
-  
-.. image:: screenshots/search2.png
-  :width: 100px
-  
-.. image:: screenshots/search3.png
-  :width: 100px
