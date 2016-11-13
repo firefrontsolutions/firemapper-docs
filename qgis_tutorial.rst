@@ -1,4 +1,4 @@
-:ref:`qgis_tutorial`
+.. qgis_tutorial
 
 QGIS Tutorial
 ==============

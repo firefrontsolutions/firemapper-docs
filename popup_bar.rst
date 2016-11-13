@@ -1,4 +1,4 @@
-:ref:`popup_bar`
+.. popup_bar
 
 Popup Bar
 ==========

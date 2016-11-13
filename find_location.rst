@@ -1,4 +1,4 @@
-:ref:`find_location`
+..  find_location
 
 Location Search
 ======================================
@@ -135,3 +135,13 @@ A UTM reference has a high accuracy of 1m x 1m.
 
 .. image:: symbols/fourteenFigRef.png
   :width: 60px
+  
+  
+.. image:: screenshots/search1.png
+  :width: 100px
+  
+.. image:: screenshots/search2.png
+  :width: 100px
+  
+.. image:: screenshots/search3.png
+  :width: 100px

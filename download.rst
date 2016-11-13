@@ -1,4 +1,4 @@
-:ref:`download`
+..  download
 
 Download
 =========

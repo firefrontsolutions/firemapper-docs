@@ -1,4 +1,5 @@
-:ref:`editor_toolbar`
+..  editor_toolbar
 
 Editor Toolbar
 ===============
+

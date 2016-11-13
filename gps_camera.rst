@@ -1,4 +1,4 @@
-:ref:`gps_camera`
+.. gps_camera
 
 GPS Camera
 ==========
@@ -7,6 +7,9 @@ and add them directly to the map.
 
 The location and direction of the photo is automatically displayed on the map. 
 FireMapper uses the internal GPS and internal compass to determine the direction and location of the photo.
+
+.. image /symbols/gps_photo.png
+  :width: 300px 
 
 .. image /symbols/photo.png
   :width: 50px 

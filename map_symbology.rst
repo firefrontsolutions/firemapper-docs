@@ -1,4 +1,4 @@
-:ref:`map_symbology`
+.. map_symbology
 
 Map Symbology
 ===============

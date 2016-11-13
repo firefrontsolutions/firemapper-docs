@@ -1,4 +1,4 @@
-:ref:`map_properties`
+..  map_properties
 
 Map Properties
 ==============
