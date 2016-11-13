@@ -8,7 +8,7 @@ and add them directly to the map.
 The location and direction of the photo is automatically displayed on the map. 
 FireMapper uses the internal GPS and internal compass to determine the direction and location of the photo.
 
-.. image:: /screenshots/gps_photo.png
+.. image:: /screenshots/gps_photo.PNG
   :width: 300px 
 
 .. image:: /symbols/photo.png
