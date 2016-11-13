@@ -1,3 +1,5 @@
+:ref:`gps_camera`
+
 GPS Camera
 ==========
 FireMapper includes an intergrated GPS camera which allows you to take photos 
@@ -56,12 +58,12 @@ You can export all the photos from a selected mapset from the Export Options scr
 4. Select the export method. 
 
 Using this method you can:
-* Send photos via Email (total of size of photo attachments may be limited by your provider)
-* Save photos to Dropbox (requires Dropbox App)
-* Save photos to Google Drive (requires Google Drive App)
-* Save to Photo Gallery ('Save Image' option).
-* Send a MMS Message
-* and more
+ * Send photos via Email (total of size of photo attachments may be limited by your provider)
+ * Save photos to Dropbox (requires Dropbox App)
+ * Save photos to Google Drive (requires Google Drive App)
+ * Save to Photo Gallery ('Save Image' option).
+ * Send a MMS Message
+ * and more
 
 .. image:: /screenshots/export_all_photos.png
   :width: 120px

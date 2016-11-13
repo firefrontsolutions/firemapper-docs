@@ -1,3 +1,5 @@
+:ref:`feature_toolbar`
+
 .. feature_toolbar:
 
 Feature Toolbar

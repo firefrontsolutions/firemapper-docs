@@ -1,3 +1,5 @@
+:ref:`map_properties`
+
 Map Properties
 ==============
 The Map Properties screen allows you to edit the metadata for your map. This includes:
@@ -7,19 +9,9 @@ The Map Properties screen allows you to edit the metadata for your map. This inc
 
 You can also Export your map file from this screen to other users.
 
-Map Name
-----------
-
-Map Author
-----------
-
-Map Notes
-----------
-
-
 Export Map
 ----------
-
+Displays a list of export options. This is used to export your maps to other applications and other users.
 
 Upload Map
 ----------

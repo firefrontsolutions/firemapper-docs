@@ -1,3 +1,5 @@
+:ref:`faq`
+
 .. far:
 Frequency Asked Questions
 =========================

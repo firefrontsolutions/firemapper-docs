@@ -1,3 +1,5 @@
+:ref:`map_symbology`
+
 Map Symbology
 ===============
 

@@ -1,3 +1,5 @@
+:ref:`find_location`
+
 Location Search
 ======================================
 
