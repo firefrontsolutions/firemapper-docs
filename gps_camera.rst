@@ -11,9 +11,6 @@ FireMapper uses the internal GPS and internal compass to determine the direction
 .. image:: /screenshots/gps_photo.PNG
   :width: 300px 
 
-.. image:: /symbols/photo.png
-  :width: 50px 
-  :height: 50px
   
 Taking a Photo
 --------------
@@ -22,7 +19,7 @@ click the large 'capture' button to take the photo and add it to the map. The di
 of the photo will be displayed on the map.
 
 .. image:: /screenshots/camera.png
-  :width: 320px
+  :width: 220px
   
 Sending Photo via Email
 -----------------------
@@ -32,7 +29,7 @@ Sending Photo via Email
 #. Use the editor to make any changes and send. An image of the map and the selected photo will be attached to the email message.
 
 .. image:: /screenshots/send_feature_as_email.png
-  :width: 320px
+  :width: 220px
     
 
 Sending Photo via Text
@@ -43,10 +40,10 @@ Sending Photo via Text
 #. Use the editor to make any changes and send. An image of the map and the selected photo will be attached to the text message.
 
 .. image:: /screenshots/send_feature_as_text.png
-  :width: 320px
+  :width: 220px
 
 .. image:: /screenshots/send_photo_text.png
-  :width: 320px
+  :width: 220px
 
 Exporting All Photos
 --------------------

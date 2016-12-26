@@ -28,7 +28,7 @@ This format is useful for transferring maps to other devices running FireMapper.
   :width: 60px
 
 Export KML/KMZ File
----------------
+--------------------
 Exports the map as a KML/KMZ file. This format is used by most GIS applications including Google Earth. 
 
 .. note:: FireMapper tries to format kml maps with similar line styles, however some line styles can not be reproduced in KML. The KML/KMZ format only supports solid lines. Dotted, dashed or other line styles are not supported. This is a limitation of the KML/KMZ format, not FireMapper.
@@ -44,7 +44,7 @@ Exports the map as a GPX file. This format is used by most GIS applications.
 Export CSV File
 -------------------
 Exports all the points on the map as a CSV file. This format can be opened in most spreadsheet applications 
-including Microsoft Excel, Open Office and Google Spreadsheets.
+including Microsoft Excel, Open Office and Google Spreadsheets. This format does not include lines
 
 .. image:: symbols/csvFile.png
 
